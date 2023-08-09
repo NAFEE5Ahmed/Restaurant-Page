@@ -1,7 +1,7 @@
 {
   "name": "restaurant-page",
   "version": "1.0.0",
-  "private":"true",
+  "private": "true",
   "description": "This web page is build using webpack which is a simple page, where user can find there favourite dish.",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "and": "^0.0.3",
+    "bootstrap": "^5.3.1",
+    "css-loader": "^6.8.1",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"
   }
