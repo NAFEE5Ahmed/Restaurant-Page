@@ -17,8 +17,8 @@ This web page is build using webpack which is a simple page, where user can find
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/NAFEE5Ahmed/Restaurant-Page](https://github.com/NAFEE5Ahmed/Restaurant-Page)
+- Live Site URL: [https://nafee5ahmed.github.io/Restaurant-Page/](https://nafee5ahmed.github.io/Restaurant-Page/)
 
 ## My process
 

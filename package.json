@@ -5,7 +5,8 @@
   "description": "This web page is build using webpack which is a simple page, where user can find their favourite burgers dish.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --config webpack.config.js"
+    "start": "webpack --config webpack.config.js",
+     "resPage": "git subtree push --prefix dist origin gh-pages"
   },
   "keywords": [],
   "author": "",
