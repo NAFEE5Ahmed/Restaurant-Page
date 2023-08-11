@@ -1,4 +1,4 @@
+import {initWebsite} from "./webpage/website";
 import "./main.scss";
-console.log("HI form index.js")
-
-
+import "bootstrap";
+initWebsite()

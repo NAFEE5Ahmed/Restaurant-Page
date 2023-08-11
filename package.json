@@ -2,7 +2,7 @@
   "name": "restaurant-page",
   "version": "1.0.0",
   "private": "true",
-  "description": "This web page is build using webpack which is a simple page, where user can find there favourite dish.",
+  "description": "This web page is build using webpack which is a simple page, where user can find their favourite burgers dish.",
   "main": "index.js",
   "scripts": {
     "start": "webpack --config webpack.config.js"
@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "and": "^0.0.3",
     "bootstrap": "^5.3.1",
     "css-loader": "^6.8.1",
     "node-sass": "^9.0.0",
